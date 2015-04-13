@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+#Titulo: Tercera entrega (trabajando con la API de twitter)
+#Autores: Isabel Repetto Garcia-Plata, Jose Antonio Ariano Munoz
+
 import twitter
 import json
 import io
